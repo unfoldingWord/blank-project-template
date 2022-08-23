@@ -27,6 +27,8 @@ project_description
 ### Built With 
 (Delete the ones that don't apply add new ones as needed.)
 
+[Node.js](https://nodejs.org/) •
+[NPM](https://www.npmjs.com/) •
 [Next.js](https://nextjs.org/) •
 [React.js](https://reactjs.org/) •
 [Svelte](https://svelte.dev/) •
